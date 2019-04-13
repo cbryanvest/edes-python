@@ -166,9 +166,5 @@ Another interesting aspect of game data is commodity trading in the virtual worl
 
 There is much data here to do a lot of analysius on. This data is real and ever changing especially as more players head out to explore the whole galaxy in their ships.
 
-<<<<<<< HEAD
-Install you cluster, get the script and start exploring this sweet stream of data as world after world are explored and generated. 
-=======
 Install you cluster, get the script and start exploring this sweet stream of data as world after world are explored and generated.
 
->>>>>>> e0f603beef8eff072279c747beba623e93795772
