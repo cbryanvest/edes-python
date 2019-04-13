@@ -39,6 +39,6 @@ while True:
     uncompressed = uncompressed.decode("utf-8")
     #print (str(uncompressed))
     #print ("")
-    es.index(index='eddn-python', body=
+    es.index(index='edes-python', body=
     	uncompressed
     	)
