@@ -52,7 +52,11 @@ The EEDN data stream is provided by players of the game who decided to install c
 
 The data by default is in JSON format and resembles this
 
+<<<<<<< HEAD
 ```
+=======
+<pre>
+>>>>>>> e0f603beef8eff072279c747beba623e93795772
 {
       "Atmosphere": "",
       "AtmosphereType": "None",
@@ -153,7 +157,11 @@ The data by default is in JSON format and resembles this
       "timestamp": "2019-04-12T02:54:58Z"
     }
   }
+<<<<<<< HEAD
 ```
+=======
+</pre>
+>>>>>>> e0f603beef8eff072279c747beba623e93795772
 
 There are a few different data sets that come from thie EDDN data. Baically these are identified by the event key, since this is a raw zmq inserter it tags everything going to elastic with message so what we would see in Elastic is message.event. 
 
@@ -165,4 +173,9 @@ Another interesting aspect of game data is commodity trading in the virtual worl
 
 There is much data here to do a lot of analysius on. This data is real and ever changing especially as more players head out to explore the whole galaxy in their ships.
 
+<<<<<<< HEAD
 Install you cluster, get the script and start exploring this sweet stream of data as world after world are explored and generated. 
+=======
+Install you cluster, get the script and start exploring this sweet stream of data as world after world are explored and generated.
+
+>>>>>>> e0f603beef8eff072279c747beba623e93795772
